@@ -8,3 +8,5 @@ Minimal landing page animation using GSAP
 * HTML CSS
 
 ## View live link 
+
+https://peter-kimanzi.github.io/landing-page/
