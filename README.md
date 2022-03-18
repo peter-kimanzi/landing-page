@@ -2,3 +2,5 @@
 Minimal landing page animation using GSAP
 
 ## Technologies used
+* GSAP
+* 
