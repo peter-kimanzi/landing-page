@@ -5,3 +5,4 @@ Minimal landing page animation using GSAP
 * GSAP
 * JQUERY
 * JavaScript
+* HTML 
