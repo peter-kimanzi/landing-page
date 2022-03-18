@@ -6,3 +6,5 @@ Minimal landing page animation using GSAP
 * JQUERY
 * JavaScript
 * HTML CSS
+
+## Technologies used
