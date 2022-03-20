@@ -7,7 +7,7 @@ Minimal landing page animation using GSAP
 * JavaScript
 * HTML CSS
 
-All required files are available
+All required files are available but if you need to update GSAP just replace my current GSAP files
 
 ## View live link 
 
